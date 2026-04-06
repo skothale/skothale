@@ -18,6 +18,32 @@ I'm a developer focused on **backend systems**, **real-time apps**, and **polygl
 
 ---
 
+### Featured project
+
+<div align="center">
+
+<a href="https://github.com/skothale/AiResumeAnalyser">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=skothale&repo=AiResumeAnalyser&show_owner=true&hide_border=true&bg_color=FAFAFA&title_color=0D47A1&icon_color=1976D2&text_color=424242" alt="AiResumeAnalyser — AI-powered resume generator and ATS optimizer" />
+</a>
+
+**[AiResumeAnalyser](https://github.com/skothale/AiResumeAnalyser)** — Full-stack app for **ATS scoring**, **AI resume rewriting**, **feedback**, **versioning**, and **PDF / LaTeX export**. React + TypeScript frontend, Spring Boot API, FastAPI Python AI service (embeddings, NER, multi-LLM fallback).
+
+<p>
+  <a href="https://github.com/skothale/AiResumeAnalyser"><img src="https://img.shields.io/badge/Featured-AiResumeAnalyser-1976D2?style=for-the-badge&logo=github&logoColor=white" alt="Open AiResumeAnalyser" /></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+</div>
+
+---
+
 ### Tech I use
 
 <p align="left">
@@ -48,6 +74,7 @@ I'm a developer focused on **backend systems**, **real-time apps**, and **polygl
 
 | Repository | Focus |
 | :--- | :--- |
+| [**AiResumeAnalyser**](https://github.com/skothale/AiResumeAnalyser) | **Featured** — AI resume & ATS stack (React, Spring Boot, FastAPI) |
 | [**VideoCalling**](https://github.com/skothale/VideoCalling) | Real-time video — Java |
 | [**VideoCalling-Frontend**](https://github.com/skothale/VideoCalling-Frontend) | Client UI — JavaScript |
 | [**VideoPlaying**](https://github.com/skothale/VideoPlaying) | Media playback — Java |
