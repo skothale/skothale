@@ -20,27 +20,34 @@ I'm a developer focused on **backend systems**, **real-time apps**, and **polygl
 
 ### Featured project
 
-<div align="center">
-
-<a href="https://github.com/skothale/AiResumeAnalyser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=skothale&repo=AiResumeAnalyser&show_owner=true&hide_border=true&bg_color=FAFAFA&title_color=0D47A1&icon_color=1976D2&text_color=424242" alt="AiResumeAnalyser — AI-powered resume generator and ATS optimizer" />
-</a>
-
-**[AiResumeAnalyser](https://github.com/skothale/AiResumeAnalyser)** — Full-stack app for **ATS scoring**, **AI resume rewriting**, **feedback**, **versioning**, and **PDF / LaTeX export**. React + TypeScript frontend, Spring Boot API, FastAPI Python AI service (embeddings, NER, multi-LLM fallback).
-
-<p>
-  <a href="https://github.com/skothale/AiResumeAnalyser"><img src="https://img.shields.io/badge/Featured-AiResumeAnalyser-1976D2?style=for-the-badge&logo=github&logoColor=white" alt="Open AiResumeAnalyser" /></a>
+<p align="center">
+  <a href="https://github.com/skothale/AiResumeAnalyser">
+    <img width="720" src="https://socialify.git.ci/skothale/AiResumeAnalyser/image?description=1&font=Roboto&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal&pulls=1&stargazers=1&theme=Light" alt="AiResumeAnalyser — repository preview: AI-powered resume generator and ATS optimizer" />
+  </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p align="center">
+  <a href="https://github.com/skothale/AiResumeAnalyser"><strong>AiResumeAnalyser</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/skothale/AiResumeAnalyser/stargazers"><img src="https://img.shields.io/github/stars/skothale/AiResumeAnalyser?label=stars&logo=github&color=1976D2&labelColor=E3F2FD&style=flat-square" alt="GitHub stars" /></a>
+  <a href="https://github.com/skothale/AiResumeAnalyser/network/members"><img src="https://img.shields.io/github/forks/skothale/AiResumeAnalyser?label=forks&logo=github&color=1976D2&labelColor=E3F2FD&style=flat-square" alt="GitHub forks" /></a>
+  <img src="https://img.shields.io/github/languages/top/skothale/AiResumeAnalyser?color=1976D2&labelColor=E3F2FD&style=flat-square" alt="Top language" />
 </p>
 
-</div>
+> **AI resume & ATS platform** — parse PDF/DOCX, score against job descriptions, rewrite bullets with multi-LLM fallback, structured feedback, version history, cover letters, and **PDF / LaTeX** export.
+
+<p align="center">
+  <sub><strong>Stack</strong></sub><br/><br/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&color=ECEFF1&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&color=E3F2FD&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&color=E8F5E9&style=flat-square" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&color=E0F2F1&style=flat-square" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&color=E3F2FD&style=flat-square" alt="Python" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/skothale/AiResumeAnalyser"><img src="https://img.shields.io/badge/View%20repository-1976D2?style=flat-square&logo=github&logoColor=white" alt="Open AiResumeAnalyser on GitHub" /></a>
+</p>
 
 ---
 
